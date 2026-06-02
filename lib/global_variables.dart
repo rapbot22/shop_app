@@ -1,0 +1,42 @@
+final products = [
+  {
+    'id': '0',
+    'title': 'Men\'s Nike Shoes',
+    'price': 45.32,
+    'sizes': [8, 9, 10, 11],
+    'company': 'Nike',
+    'imageUrl': 'assets/images/Nike2.png',
+  },
+  {
+    'id': '1',
+    'title': 'Women\'s Bata Shoes',
+    'price': 22.19,
+    'sizes': [7, 8, 9],
+    'company': 'Bata',
+    'imageUrl': 'assets/images/shoes2.png',
+  },
+  {
+    'id': '2',
+    'title': 'Men\'s Adidas Shoes',
+    'price': 40.00,
+    'sizes': [9, 10, 12],
+    'company': 'Adidas',
+    'imageUrl': 'assets/images/Adidas2.png',
+  },
+  {
+    'id': '3',
+    'title': 'Nike Blue Sneakers',
+    'price': 30.54,
+    'sizes': [8, 9, 10, 11],
+    'company': 'Nike',
+    'imageUrl': 'assets/images/Nike3.png',
+  },
+  {
+    'id': '4',
+    'title': 'Blue Running Shoes',
+    'price': 31.54,
+    'sizes': [9, 10],
+    'company': 'Adidas',
+    'imageUrl': 'assets/images/additional.png',
+  },
+];
